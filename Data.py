@@ -20,12 +20,12 @@ By @Developerr_Bots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/Developerr_Bots_Support")],
+        [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/+lTO1v9u3v4FhODNl")],
         [
             InlineKeyboardButton("ʜᴇʟᴘ❔", callback_data="help"),
             InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Developerr_Bots")],
+        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Mrn_Officialx")],
     ]
 
     # Help Message
@@ -49,7 +49,7 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @Developerr_Bots
+A telegram channel automation bot by @Mrn_Officialx
 
 
 
@@ -57,5 +57,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @Developerr_Bots
+Developer : @Mrn_Officialx
     """
